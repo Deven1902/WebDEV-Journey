@@ -1,0 +1,21 @@
+body {
+  background-color: #D3E4CD;
+}
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  width: 30%;
+  border-width: 70%;
+}
+img {
+  height: inherit;
+  border: 10; 
+}
+
+h1 {
+  color: green;
+}
+
+h3 {
+  color: green;
+}
